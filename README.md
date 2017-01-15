@@ -1,0 +1,1 @@
+This is the code for the final project of CSS534: Parallelization using MASS. At the present time the code is not optimal, but does work. Work on this subject is continuing with Professor Fukuda and the Distributed Systems laboratory at the University of Washington, Bothell. The K-means project is currently being ported to Java for testing with MASS Java version.
